@@ -16,7 +16,8 @@
 
 - 📝 We also have a article about crypto at [https://blog.opitmedia.com](https://blog.opitmedia.com)
 
-- 💬 Business or Contact **Email :** opitmediacommunity@gmail.com or **Direct Messages** on any social media.
+- 💬 Business or Contact? 
+   **Email :** opitmediacommunity@gmail.com or **Direct Messages** on any social media.
 
 <h3 align="left">Join our community</h3>
 <p align="left">
