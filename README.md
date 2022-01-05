@@ -2,7 +2,7 @@
 <h3 align="center">Opit Media Community</h3>
 <h5 align="center">Crypto communities from indonesian</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=km-dev12&label=Profile%20views&color=0e75b6&style=flat" alt="km-dev12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=opitmedia&label=Profile%20views&color=0e75b6&style=flat" alt="opitmedia" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=opitmedia" alt="opitmedia" /></a> </p>
 
